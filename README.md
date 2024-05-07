@@ -17,20 +17,20 @@
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>📺 My Favorite IT YouTubers Mentors</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [Josh Madakor](https://www.youtube.com/@JoshMadakor))
+- [Network Chuck](https://www.youtube.com/@NetworkChuck)
+- [Jack Rhysider](https://www.youtube.com/@JackRhysider)
+- [Ryan McBeth](https://www.youtube.com/@RyanMcBethProgramming)
+- [ITV Pro Technado Podcast w/ Daniel Lowrie & Sofie Goodwin](https://www.youtube.com/@ITProTv)
 
 <h2> 🤳 Connect with me:</h2>
 
 
 [<img align="left" alt="MatthewRimbert | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: (https://www.linkedin.com/in/matthew-rimbert/)
+[linkedin]:(https://www.linkedin.com/in/matthew-rimbert/)
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

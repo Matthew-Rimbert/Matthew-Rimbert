@@ -1,4 +1,4 @@
-<h1>Hi, I'm Matt! <br/><a href="https://www.linkedin.com/in/matthew-rimbert/">Air Force Veteran &</a> <a href="https://www.linkedin.com/in/matthew-rimbert/">Cybersecurity Professional</a>.
+<h1>Hi, I'm Matt! <br/><a href="https://www.linkedin.com/in/matthew-rimbert/">Air Force Veteran &</a> <a href="https://www.linkedin.com/in/matthew-rimbert/">Cybersecurity Professional</a>
 <h2>👨‍💻 My IT Adventures:</h2>
 
 - <b>Azure / Cloud Cyber Security Projects</b>

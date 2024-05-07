@@ -17,7 +17,7 @@
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
-<h2>📺 My Favorite IT YouTubers Mentors</h2>
+<h2>📺 My Favorite IT YouTubers</h2>
 
 - [Josh Madakor](https://www.youtube.com/@JoshMadakor))
 - [Network Chuck](https://www.youtube.com/@NetworkChuck)

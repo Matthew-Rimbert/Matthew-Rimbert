@@ -19,7 +19,7 @@
 
 <h2>📺 My Favorite IT YouTubers</h2>
 
-- [Josh Madakor](https://www.youtube.com/@JoshMadakor))
+- [Josh Madakor](https://www.youtube.com/@JoshMadakor)
 - [Network Chuck](https://www.youtube.com/@NetworkChuck)
 - [Jack Rhysider](https://www.youtube.com/@JackRhysider)
 - [Ryan McBeth](https://www.youtube.com/@RyanMcBethProgramming)

@@ -1,7 +1,7 @@
 <h1>Hi, I'm Matt! <br/><a href="https://www.linkedin.com/in/matthew-rimbert/">Air Force Veteran &</a> <a href="https://www.linkedin.com/in/matthew-rimbert/">Cybersecurity Professional</a>.
 <h2>👨‍💻 My IT Adventures:</h2>
 
-- <b>Azure / Cloud Projectsb</b>
+- <b>Azure / Cloud Cyber Security Projects</b>
   - [Creating a Live SOC/HoneyNet in Azure](https://github.com/Matthew-Rimbert/Azure-HoneyNet)
 - <b>Scripting</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)

@@ -7,11 +7,13 @@
   - [VBS Calculator](https://github.com/Matthew-Rimbert/VBScript-Calculator)
   - [File Size Finder w/ Python](https://github.com/Matthew-Rimbert/File-Size-Finder)
   - [API Back-End Database w/ Node.js]
+      - COMING SOON!!!
 - <b>Pentration Testing</b>
   - Damn Vulnerable Web Application (DVWA)
+      - COMING SOON!!!
 Project
 - <b>Cisco Packet Tracer</b>
-  - Uploading At This TIME
+  - COMING SOON!!!
 <h2>📺 My Favorite IT YouTubers</h2>
 
 - [Josh Madakor](https://www.youtube.com/@JoshMadakor)

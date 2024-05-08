@@ -11,7 +11,6 @@
 - <b>Pentration Testing</b>
   - Damn Vulnerable Web Application (DVWA)
       - COMING SOON!!!
-Project
 - <b>Cisco Packet Tracer</b>
   - COMING SOON!!!
 <h2>📺 My Favorite IT YouTubers</h2>

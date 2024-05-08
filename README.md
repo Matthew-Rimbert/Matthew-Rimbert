@@ -4,7 +4,7 @@
 - <b>Azure / Cloud Cyber Security Projects</b>
   - [Creating a Live SOC/HoneyNet in Azure](https://github.com/Matthew-Rimbert/Azure-HoneyNet)
 - <b>Scripting Practise</b>
-  - [VBS Calculator](https://github.com/Matthew-Rimbert/VBScript-Calculator).
+  - [VBS Calculator](https://github.com/Matthew-Rimbert/VBScript-Calculator)
   - Uploading At This TIME
   - Uploading At This TIME
 - <b>Pentration Testing</b>

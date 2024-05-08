@@ -6,8 +6,7 @@
 - <b>Scripting Practise</b>
   - [VBS Calculator](https://github.com/Matthew-Rimbert/VBScript-Calculator)
   - [File Size Finder w/ Python](https://github.com/Matthew-Rimbert/File-Size-Finder)
-  - [API Back-End Database w/ Node.js]
-      - COMING SOON!!!
+  - [UserHub API: Node.js & Express-powered RESTful service](https://github.com/Matthew-Rimbert/UserHub-API)
 - <b>Pentration Testing</b>
   - Damn Vulnerable Web Application (DVWA)
       - COMING SOON!!!

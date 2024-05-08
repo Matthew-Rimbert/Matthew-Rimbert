@@ -3,7 +3,7 @@
 
 - <b>Azure / Cloud Cyber Security Projects</b>
   - [Creating a Live SOC/HoneyNet in Azure](https://github.com/Matthew-Rimbert/Azure-HoneyNet)
-- <b>Scripting</b>
+- <b>Scripting Practise</b>
   - Uploading At This TIME
 - <b>Pentration Testing</b>
   - Uploading At This TIME

@@ -4,9 +4,13 @@
 - <b>Azure / Cloud Cyber Security Projects</b>
   - [Creating a Live SOC/HoneyNet in Azure](https://github.com/Matthew-Rimbert/Azure-HoneyNet)
 - <b>Scripting</b>
+  - Uploading At This TIME
 - <b>Pentration Testing</b>
+  - Uploading At This TIME
 - <b>Python</b>
+  - Uploading At This TIME
 - <b>Cisco Packet Tracer</b>
+  - Uploading At This TIME
 <h2>📺 My Favorite IT YouTubers</h2>
 
 - [Josh Madakor](https://www.youtube.com/@JoshMadakor)

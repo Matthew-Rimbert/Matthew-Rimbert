@@ -5,7 +5,7 @@
   - [Creating a Live SOC/HoneyNet in Azure](https://github.com/Matthew-Rimbert/Azure-HoneyNet)
 - <b>Scripting Practise</b>
   - [VBS Calculator](https://github.com/Matthew-Rimbert/VBScript-Calculator)
-  - [File Size Finder](https://github.com/Matthew-Rimbert/File-Size-Finder)
+  - [File Size Finder w/ Python](https://github.com/Matthew-Rimbert/File-Size-Finder)
   - Uploading At This TIME
 - <b>Pentration Testing</b>
   - Uploading At This TIME

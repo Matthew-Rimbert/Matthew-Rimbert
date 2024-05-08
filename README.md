@@ -3,11 +3,11 @@
 
 - <b>Azure / Cloud Cyber Security Projects</b>
   - [Creating a Live SOC/HoneyNet in Azure](https://github.com/Matthew-Rimbert/Azure-HoneyNet)
-- <b>Scripting Practise</b>
+- <b>Scripting Practice</b>
   - [VBS Calculator](https://github.com/Matthew-Rimbert/VBScript-Calculator)
   - [File Size Finder w/ Python](https://github.com/Matthew-Rimbert/File-Size-Finder)
   - [UserHub API: Node.js & Express-powered RESTful service](https://github.com/Matthew-Rimbert/UserHub-API)
-- <b>Pentration Testing</b>
+- <b>Penetration Testing</b>
   - Damn Vulnerable Web Application (DVWA)
       - COMING SOON!!!
 - <b>Cisco Packet Tracer</b>

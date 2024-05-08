@@ -6,11 +6,10 @@
 - <b>Scripting Practise</b>
   - [VBS Calculator](https://github.com/Matthew-Rimbert/VBScript-Calculator)
   - [File Size Finder w/ Python](https://github.com/Matthew-Rimbert/File-Size-Finder)
-  - Uploading At This TIME
+  - [API Back-End Database w/ Node.js]
 - <b>Pentration Testing</b>
-  - Uploading At This TIME
-- <b>Python</b>
-  - Uploading At This TIME
+  - Damn Vulnerable Web Application (DVWA)
+Project
 - <b>Cisco Packet Tracer</b>
   - Uploading At This TIME
 <h2>📺 My Favorite IT YouTubers</h2>

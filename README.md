@@ -7,7 +7,7 @@
   - Damn Vulnerable Web Application (DVWA)
       - COMING SOON!!!
 - <b>Cisco Packet Tracer</b>
-  - COMING SOON!!!
+      - COMING SOON!!!
 - <b>Scripting Practice</b>
   - 🧮 [VBS Calculator](https://github.com/Matthew-Rimbert/VBScript-Calculator)
   - 📁 [File Size Finder w/ Python](https://github.com/Matthew-Rimbert/File-Size-Finder)
@@ -17,11 +17,15 @@
   - 🗺️ [Drawing a Map with Cartopy and Matplotlib](https://github.com/Matthew-Rimbert/-Drawing-a-Map-with-Cartopy-and-Matplotlib/tree/main)
   - 🚖 [Geospatial Taxi Analysis](https://github.com/Matthew-Rimbert/Geospatial-Taxi-Analysis)
   - [Analyzing Time Series Data](https://github.com/Matthew-Rimbert/Analyzing-Time-Series-Data)
-  - Analyzing Real Transaction Data 
+  - Analyzing Real Transaction Data
+      - COMING SOON!!!
   - Expanding the Example Set
+      - COMING SOON!!!
 - <b>Machine Learning Projects</b>
   - Predicting Stock Trends 📈
+      - COMING SOON!!!
   - Credit Approval Prediction 💳
+      - COMING SOON!!!
 
 <h2>📺 My Favorite IT YouTubers</h2>
 

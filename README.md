@@ -7,6 +7,14 @@
   - [VBS Calculator](https://github.com/Matthew-Rimbert/VBScript-Calculator)
   - [File Size Finder w/ Python](https://github.com/Matthew-Rimbert/File-Size-Finder)
   - [UserHub API: Node.js & Express-powered RESTful service](https://github.com/Matthew-Rimbert/UserHub-API)
+- <b>Data Analysis and Machine Learning Projects</b>
+  - Aggregating Sales Data with Pandas
+  - Analyzing Location Data
+  - Analyzing Time Series Data
+  - Analyzing Real Transaction Data 
+  - Expanding the Example Set
+  - Predicting Stock Trends
+  - Credit Approval Prediction
 - <b>Penetration Testing</b>
   - Damn Vulnerable Web Application (DVWA)
       - COMING SOON!!!

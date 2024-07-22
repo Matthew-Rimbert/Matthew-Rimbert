@@ -12,13 +12,14 @@
   - [VBS Calculator](https://github.com/Matthew-Rimbert/VBScript-Calculator)
   - [File Size Finder w/ Python](https://github.com/Matthew-Rimbert/File-Size-Finder)
   - [UserHub API: Node.js & Express-powered RESTful service](https://github.com/Matthew-Rimbert/UserHub-API)
-- <b>Data Analysis and Machine Learning Projects</b>
+- <b>Data Analysis</b>
   - [Aggregating Sales Data with Pandas](https://github.com/Matthew-Rimbert/Aggregating-Sales-Data/tree/main)
   - [Drawing a Map with Cartopy and Matplotlib](https://github.com/Matthew-Rimbert/-Drawing-a-Map-with-Cartopy-and-Matplotlib/tree/main)
   - Analyzing Geospatial Taxi Analysis
   - Analyzing Time Series Data
   - Analyzing Real Transaction Data 
   - Expanding the Example Set
+- <b>Machine Learning Projects</b>
   - Predicting Stock Trends
   - Credit Approval Prediction
 

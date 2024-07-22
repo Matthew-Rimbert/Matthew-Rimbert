@@ -15,7 +15,7 @@
 - <b>Data Analysis</b>
   - [Aggregating Sales Data with Pandas](https://github.com/Matthew-Rimbert/Aggregating-Sales-Data/tree/main)
   - [Drawing a Map with Cartopy and Matplotlib](https://github.com/Matthew-Rimbert/-Drawing-a-Map-with-Cartopy-and-Matplotlib/tree/main)
-  - [Analyzing Geospatial Taxi Analysis](https://github.com/Matthew-Rimbert/Geospatial-Taxi-Analysis)
+  - [Geospatial Taxi Analysis](https://github.com/Matthew-Rimbert/Geospatial-Taxi-Analysis)
   - Analyzing Time Series Data
   - Analyzing Real Transaction Data 
   - Expanding the Example Set

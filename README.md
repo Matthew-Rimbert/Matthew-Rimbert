@@ -9,7 +9,7 @@
   - [UserHub API: Node.js & Express-powered RESTful service](https://github.com/Matthew-Rimbert/UserHub-API)
 - <b>Data Analysis and Machine Learning Projects</b>
   - [Aggregating Sales Data with Pandas](https://github.com/Matthew-Rimbert/Aggregating-Sales-Data/tree/main)
-  - Drawing a Map with Cartopy and Matplotlib
+  - [Drawing a Map with Cartopy and Matplotlib](https://github.com/Matthew-Rimbert/-Drawing-a-Map-with-Cartopy-and-Matplotlib/tree/main)
   - Analyzing Location Data
   - Analyzing Time Series Data
   - Analyzing Real Transaction Data 

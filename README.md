@@ -16,7 +16,7 @@
   - 📊 [Aggregating Sales Data with Pandas](https://github.com/Matthew-Rimbert/Aggregating-Sales-Data/tree/main)
   - 🗺️ [Drawing a Map with Cartopy and Matplotlib](https://github.com/Matthew-Rimbert/-Drawing-a-Map-with-Cartopy-and-Matplotlib/tree/main)
   - 🚖 [Geospatial Taxi Analysis](https://github.com/Matthew-Rimbert/Geospatial-Taxi-Analysis)
-  - Analyzing Time Series Data
+  - [Analyzing Time Series Data](https://github.com/Matthew-Rimbert/Analyzing-Time-Series-Data)
   - Analyzing Real Transaction Data 
   - Expanding the Example Set
 - <b>Machine Learning Projects</b>

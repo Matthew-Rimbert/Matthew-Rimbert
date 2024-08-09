@@ -17,10 +17,7 @@
   - 🗺️ [Drawing a Map with Cartopy and Matplotlib](https://github.com/Matthew-Rimbert/-Drawing-a-Map-with-Cartopy-and-Matplotlib/tree/main)
   - 🚖 [Geospatial Taxi Analysis](https://github.com/Matthew-Rimbert/Geospatial-Taxi-Analysis)
   - 📊 [Analyzing Time Series Data](https://github.com/Matthew-Rimbert/Analyzing-Time-Series-Data)
-  - Analyzing Real Transaction Data
-      - COMING SOON!!!
-  - Expanding the Example Set
-      - COMING SOON!!!
+  - 🛒 [Analyzing Real Transaction Data](https://github.com/Matthew-Rimbert/Analyzing-Transaction-Data)
 - <b>Machine Learning Projects</b>
   - Predicting Stock Trends 📈
       - COMING SOON!!!

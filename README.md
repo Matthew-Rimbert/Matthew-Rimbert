@@ -19,8 +19,7 @@
   - 📊 [Analyzing Time Series Data](https://github.com/Matthew-Rimbert/Analyzing-Time-Series-Data)
   - 🛒 [Analyzing Real Transaction Data](https://github.com/Matthew-Rimbert/Analyzing-Transaction-Data)
 - <b>Machine Learning Projects</b>
-  - Predicting Stock Trends 📈
-      - COMING SOON!!!
+  - 📈 [Predicting Stock Trends](https://github.com/Matthew-Rimbert/Predicting-Stock-Trends/blob/main/README.md)
   - Credit Approval Prediction 💳
       - COMING SOON!!!
 

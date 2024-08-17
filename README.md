@@ -20,8 +20,7 @@
   - 🛒 [Analyzing Real Transaction Data](https://github.com/Matthew-Rimbert/Analyzing-Transaction-Data)
 - <b>Machine Learning Projects</b>
   - 📈 [Predicting Stock Trends](https://github.com/Matthew-Rimbert/Predicting-Stock-Trends/blob/main/README.md)
-  - Credit Approval Prediction 💳
-      - COMING SOON!!!
+  - 💳 [Credit Approval Prediction](https://github.com/Matthew-Rimbert/Credit-Approval-Prediction)
 
 <h2>📺 My Favorite IT YouTubers</h2>
 
